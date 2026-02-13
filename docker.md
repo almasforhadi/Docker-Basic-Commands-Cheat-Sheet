@@ -181,6 +181,6 @@ docker network rm <network_name>
 ```
 
 ## Remove all unused networks
-bash```
+```bash
 docker network prune
 ```
